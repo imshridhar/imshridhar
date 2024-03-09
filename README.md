@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shridhar Havinal</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Chat**
+- 🔭 I’m currently working on **Chat App**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **Youtube Clone**
-
-- 🤝 I’m looking for help with **Delivery**
+- 👯 I’m looking to collaborate on **Tech Team**
 
 - 💬 Ask me about **React MongoDB Node Express**
 
