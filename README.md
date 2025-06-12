@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/30784172/shridhar-havinal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/30784172/shridhar-havinal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/shridharhavinal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shridharhavinal/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/shridharhavinal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/shridharhavinal" height="30" width="40" /></a>
-<a href="https://discord.gg/2shridhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2shridhar" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/45TsfDMF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/45TsfDMF" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
