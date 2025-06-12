@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Operating System Project**
 
-- 💬 Ask me about **React.js Node.js Express.js MongoDB**
+- 💬 Ask me about **JavaScript React.js Node.js Express.js MongoDB**
 
 - 📫 How to reach me **developer.shri7@gmail.com**
 
