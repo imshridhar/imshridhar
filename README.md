@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript React.js Node.js Express.js MongoDB**
 
-- 📫 How to reach me **developer.shri7@gmail.com**
+- 📫 How to reach me **shridharhavinal@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
