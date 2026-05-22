@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Operating System Project**
 
-- 💬 Ask me about **JavaScript React.js Node.js Express.js MongoDB**
-
-- 📫 How to reach me **shridharhavinal@gmail.com**
+- 💬 Ask me about **JavaScript React.js Node.js Express.js MongoDB
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
