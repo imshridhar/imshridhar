@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshridhar&label=Profile%20views&color=0e75b6&style=flat" alt="imshridhar" /> </p>
 
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working on **GreenLoop Project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Product Scalable**
 
 - 👯 I’m looking to collaborate on **Operating System Project**
 
-- 💬 Ask me about **JavaScript React.js Node.js Express.js MongoDB
+- 💬 Ask me about **JavaScript Node.js Express.js MongoDB PostgreSQL**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
