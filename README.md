@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshridhar&label=Profile%20views&color=0e75b6&style=flat" alt="imshridhar" /> </p>
 
+-I know i exposed the .env files.**
 
 - 🔭 I’m currently working on **GreenLoop Project**
 
